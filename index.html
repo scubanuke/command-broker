@@ -324,6 +324,11 @@ async function load(path){
   }catch(e){
     mdEl.innerHTML='<h1>Not available offline</h1><p class="loaderr">This page loads its content from the repository and needs to be viewed on the published site (or a local web server), not by opening the file directly. On GitHub Pages it will display normally.</p>';
   }
+  // The lens only filters content on pages that carry AOO/Vendor blocks (the gates).
+  // Show the switch only where it does something; hide it everywhere else.
+  const hasLens = !!mdEl.querySelector('.lens');
+  document.querySelector('.lens-switch').style.display = hasLens ? '' : 'none';
+  document.querySelector('.lens-note').style.display = hasLens ? '' : 'none';
   setActive(path);
   document.getElementById('nav').classList.remove('open');
 }
