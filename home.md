@@ -2,7 +2,7 @@
 
 Governed generative AI in critical infrastructure rests on one idea: above the **Bright Line**, an AI system may analyze, synthesize, and recommend — but it may not command. A qualified human, the **Command Broker**, stands between the recommendation and the consequence.
 
-That human is the asset owner/operator's. The enforcement mechanism, the confirmation interface, the exercise mode, and the audit records are the vendor's. Tier classification is shared. **Neither side can stand up the Command Broker role alone** — which is what this site is about: the practices by which an asset owner/operator (AOO) and a supplier engage to put a governed AI tool into service.
+That human is the asset owner/operator's. The enforcement mechanism, the confirmation interface, the exercise mode, and the audit records are the vendor's. Band classification is shared. **Neither side can stand up the Command Broker role alone** — which is what this site is about: the practices by which an asset owner/operator (AOO) and a supplier engage to put a governed AI tool into service.
 
 ## Choose your door
 

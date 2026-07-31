@@ -34,7 +34,7 @@ A gate-by-gate checklist of what your product must demonstrate or deliver to pas
 
 **Procurement**
 
-- [ ] A tier-design statement and the configuration path to deploy at a different tier.
+- [ ] A band-design statement and the configuration path to deploy at a different band.
 - [ ] Acceptance of no-training-on-customer-data, on-premises deployment, CIP-013 terms, and Part 21 reach.
 - [ ] Disclosure of the underlying foundation model and provider, with change and re-qualification rights.
 - [ ] No autonomy claim that substitutes for gate evidence.

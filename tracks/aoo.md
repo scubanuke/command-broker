@@ -31,7 +31,7 @@ A gate-by-gate checklist for the acquisition team — questions to put to a vend
 
 **Procurement**
 
-- [ ] What tier do you assign the intended application, and what configuration changes deploy it at a different tier?
+- [ ] What band do you assign the intended application, and what configuration changes deploy it at a different band?
 - [ ] Will you contractually commit not to train your models on our data, and support on-premises deployment?
 - [ ] Will you accept NERC CIP-013 supply-chain terms and the reach of 10 CFR Part 21 defect reporting?
 - [ ] Will you disclose the underlying foundation model and its provider, and grant re-qualification or exit rights if it changes?

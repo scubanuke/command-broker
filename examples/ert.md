@@ -4,4 +4,4 @@ The **Evidence Request Tool (ERT)** is a companion that automates NERC CIP audit
 
 Read through the Command Broker lens, the ERT sits **below the Bright Line** — it assembles and holds evidence; a named human signs. Its human-review gate *is* the Bright Line expressed inside the tool; its provenance machinery *is* the reconstructable record a broker relies on.
 
-> Skeleton page. The full walkthrough — where the ERT sits, who brokers, tiering, and acquiring it through the vendor–AOO seam — will be ported here from the corpus hub. See [The Corpus](../corpus.md).
+> Skeleton page. The full walkthrough — where the ERT sits, who brokers, banding, and acquiring it through the vendor–AOO seam — will be ported here from the corpus hub. See [The Corpus](../corpus.md).

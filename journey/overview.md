@@ -8,7 +8,7 @@ A Command Broker is commissioned through an ordered sequence of **six gates**. E
 
 | Gate | What closes it | Accountable |
 |---|---|---|
-| [1 · Procurement](1-procurement.md) | Tier-design statement + accepted conformance clause | AOO, on joint tier determination |
+| [1 · Procurement](1-procurement.md) | Band-design statement + accepted conformance clause | AOO, on joint band determination |
 | [2 · Factory Acceptance](2-factory-acceptance.md) | Bright-Line placement + exercise-mode results | Joint; AOO countersigns |
 | [3 · Site Acceptance](3-site-acceptance.md) | Passing audit-reconstruction test | AOO |
 | [4 · Operational Qualification](4-operational-qualification.md) | Per-broker CB-IB competency record | AOO (per broker) |
@@ -17,4 +17,4 @@ A Command Broker is commissioned through an ordered sequence of **six gates**. E
 
 ## One role no one fully owns
 
-The human broker is the AOO's; the mechanism, interface, exercise mode, and audit records are the vendor's; tier classification is shared. Use the **Lens** switch to read each gate from the AOO side, the vendor side, or both. Every gate resolves to an evidence artifact already required elsewhere in the corpus — the journey **sequences** existing obligations; it does not add new ones.
+The human broker is the AOO's; the mechanism, interface, exercise mode, and audit records are the vendor's; band classification is shared. Use the **Lens** switch to read each gate from the AOO side, the vendor side, or both. Every gate resolves to an evidence artifact already required elsewhere in the corpus — the journey **sequences** existing obligations; it does not add new ones.
