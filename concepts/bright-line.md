@@ -6,4 +6,6 @@ Every action affecting the controlled process must pass through a human decision
 
 Placement is **action by action**. Band classification decides whether the broker architecture is required for an application at all; the Bright Line itself is then drawn against the consequence each individual action could produce. The same product can sit below the line for one action and above it for another.
 
-See also: [Criticality Bands](three-tier.md) · [Mechanism vs. Accountability](mechanism-accountability.md) · [The Proposer–Gate Pattern](proposer-gate.md).
+The definition is fixed by **FD-BL** (the Foundational Definition — The Bright Line). *How* the required authorization is discharged, *how* the picture it rests on is trusted, and *how* "envelope" is used are settled by the determinations — [Advance Discharge](advance-discharge.md) (FD-BL-D1), [Indication Integrity](indication-integrity.md) (FD-BL-D2), and [Envelope](envelope.md) (FD-EV).
+
+See also: [Criticality Bands](three-tier.md) · [Mechanism vs. Accountability](mechanism-accountability.md) · [The Proposer–Gate Pattern](proposer-gate.md) · [Advance Discharge](advance-discharge.md) · [Indication Integrity](indication-integrity.md) · [Envelope](envelope.md).

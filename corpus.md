@@ -2,6 +2,16 @@
 
 This site is a navigator, not an archive. The authoritative documents live on the **[Publications mirror](https://scubanuke.github.io/publications/)** — permanent, citable copies with stable URLs that survive revisions. Several are drafts.
 
+## Foundational Definitions & Determinations
+
+The governing layer — the definitions the rest of the corpus conforms to, and the determinations that resolve its open questions. All three of FD-BL's open questions are now determined.
+
+- **FD-BL — The Bright Line** (v0.3) — the definition: placement (consequence, per action), granularity, scope, and the obligation.
+- **FD-LD — Layer Decomposition & Determinism** — companion root; owns the determinism carve-out and the layer vocabulary.
+- **FD-BL-D1 — Mode of Discharge** (v0.3) — advance discharge by a verified gatekeeper under R1–R3; the two-object model. See [Advance Discharge](concepts/advance-discharge.md).
+- **FD-BL-D2 — Indication Integrity** (v0.2) — traceable, independently corroborated inputs (I1–I3). See [Indication Integrity](concepts/indication-integrity.md).
+- **FD-EV — Envelope** (v0.1) — reserves "envelope" for the authorization sense; renames the operational sense to "operating band". See [Envelope](concepts/envelope.md).
+
 ## Foundations
 
 - **CB-Framework, Cross-Sector** (v0.2) — the parent: broker requirement, Bright Line, criticality-band model, mechanism-vs-accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-Framework_Cross_Sector.pdf)
