@@ -21,8 +21,8 @@ The governing layer — the definitions the rest of the corpus conforms to, and 
 ## Standards
 
 - **CB-IB Qualification &amp; Onboarding Standard** (v0.1 · dated draft) — normative broker competency, onboarding, accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-IB_Qualification_Standard.pdf)
-- **DBA-VC Vendor Companion** (v0.8) — vendor product obligations. [Open](https://scubanuke.github.io/publications/command-broker/DBA-VC_Vendor_Companion.pdf)
-- **CB-UC-1 — BA Integrated Interface** (v0.1) — the confirmation-interface specification. [Open](https://scubanuke.github.io/publications/command-broker/CB-UC-1_BA_Integrated_Interface.pdf)
+- **DBA-VC Vendor Companion** (v0.8 · dated draft) — vendor product obligations. [Open](https://scubanuke.github.io/publications/command-broker/DBA-VC_Vendor_Companion.pdf)
+- **CB-UC-1 — BA Integrated Interface** (v0.3) — the confirmation-interface specification. [Open](https://scubanuke.github.io/publications/command-broker/CB-UC-1_BA_Integrated_Interface.pdf)
 
 ## Practice
 
