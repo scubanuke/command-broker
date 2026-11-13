@@ -14,20 +14,20 @@ The governing layer — the definitions the rest of the corpus conforms to, and 
 
 ## Foundations
 
-- **CB-Framework, Cross-Sector** (v0.4) — the parent: broker requirement, Bright Line, criticality-band model, mechanism-vs-accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-Framework_Cross_Sector.pdf)
+- **CB-Framework, Cross-Sector** (v0.5) — the parent: broker requirement, Bright Line, criticality-band model, mechanism-vs-accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-Framework_Cross_Sector.pdf)
 - **Generative AI Risk in Industrial Control Systems** (V29 · dated record) — the risk landscape behind the framework. [Open](https://scubanuke.github.io/publications/papers/GenAI_Risk_ICS.pdf)
 - **AI Governance Series Overview** (v0.1 · dated record) — the map of the whole series; start here. [Open](https://scubanuke.github.io/publications/AI_Governance_Series_Overview.pdf)
 
 ## Standards
 
-- **CB-IB Qualification &amp; Onboarding Standard** (v0.1 · dated draft) — normative broker competency, onboarding, accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-IB_Qualification_Standard.pdf)
-- **DBA-VC Vendor Companion** (v0.8 · dated draft) — vendor product obligations. [Open](https://scubanuke.github.io/publications/command-broker/DBA-VC_Vendor_Companion.pdf)
-- **CB-UC-1 — BA Integrated Interface** (v0.3) — the confirmation-interface specification. [Open](https://scubanuke.github.io/publications/command-broker/CB-UC-1_BA_Integrated_Interface.pdf)
+- **CB-IB Qualification &amp; Onboarding Standard** (v0.3) — normative broker competency, onboarding, accountability. [Open](https://scubanuke.github.io/publications/command-broker/CB-IB_Qualification_Standard.pdf)
+- **DBA-VC Vendor Companion** (v0.20 · DOI [10.5281/zenodo.24199026](https://doi.org/10.5281/zenodo.24199026)) — vendor product obligations. [Open](https://scubanuke.github.io/publications/command-broker/DBA-VC_Vendor_Companion.pdf)
+- **CB-UC-1 — BA Integrated Interface** (v0.4) — the confirmation-interface specification. [Open](https://scubanuke.github.io/publications/command-broker/CB-UC-1_BA_Integrated_Interface.pdf)
 
 ## Practice
 
 - **Command Broker Implementation Guide** (V0.3) — AOO duty-of-care, training, governance. [Open](https://scubanuke.github.io/publications/command-broker/CB_Implementation_Guide.pdf)
-- **CB-CT — Commissioning &amp; Joint Training** (v0.2 · dated draft) — the vendor–AOO seam: RACI, lifecycle gates, joint training, model-update loop. The spine of [the Engagement Journey](journey/overview.md). [Open](https://scubanuke.github.io/publications/command-broker/CB-CT_Commissioning_and_Joint_Training.pdf)
+- **CB-CT — Commissioning &amp; Joint Training** (v0.4) — the vendor–AOO seam: RACI, lifecycle gates, joint training, model-update loop. The spine of [the Engagement Journey](journey/overview.md). [Open](https://scubanuke.github.io/publications/command-broker/CB-CT_Commissioning_and_Joint_Training.pdf)
 - **The Proposer–Gate Pattern** (v0.1) — not yet on the mirror; see [the concept page](concepts/proposer-gate.md). [Drive folder](https://drive.google.com/drive/folders/1GWWFxu2N-QAGkVEOJxEcNFKBM_iIShDs)
 
 ## Companions &amp; worked examples
