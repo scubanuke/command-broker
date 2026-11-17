@@ -27,7 +27,7 @@ The governing layer — the definitions the rest of the corpus conforms to, and 
 ## Practice
 
 - **Command Broker Implementation Guide** (V0.3) — AOO duty-of-care, training, governance. [Open](https://scubanuke.github.io/publications/command-broker/CB_Implementation_Guide.pdf)
-- **CB-CT — Commissioning &amp; Joint Training** (v0.4) — the vendor–AOO seam: RACI, lifecycle gates, joint training, model-update loop. The spine of [the Engagement Journey](journey/overview.md). [Open](https://scubanuke.github.io/publications/command-broker/CB-CT_Commissioning_and_Joint_Training.pdf)
+- **CB-CT — Commissioning &amp; Joint Training** (v0.5) — the vendor–AOO seam: RACI, lifecycle gates, joint training, model-update loop. The spine of [the Engagement Journey](journey/overview.md). [Open](https://scubanuke.github.io/publications/command-broker/CB-CT_Commissioning_and_Joint_Training.pdf)
 - **The Proposer–Gate Pattern** (v0.1) — not yet on the mirror; see [the concept page](concepts/proposer-gate.md). [Drive folder](https://drive.google.com/drive/folders/1GWWFxu2N-QAGkVEOJxEcNFKBM_iIShDs)
 
 ## Companions &amp; worked examples
